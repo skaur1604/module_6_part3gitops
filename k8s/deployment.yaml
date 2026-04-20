@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: student-app
-          image: ghcr.io/skaur1604/module_6_part_3:89947ef972d062ec48b8b75f9b4c140c9666f77b
+          image: ghcr.io/skaur1604/module_6_part_3:2920f9e72b55f74b033a60160a46e6a9426b1dae
           ports:
             - containerPort: 80
